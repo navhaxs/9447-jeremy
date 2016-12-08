@@ -1,0 +1,13 @@
+808466164
+[x] Opening connection to 192.168.40.51 on port 5004
+[x] Opening connection to 192.168.40.51 on port 5004: Trying 192.168.40.51
+[+] Opening connection to 192.168.40.51 on port 5004: Done
+[*] Recieved password prompt
+[*] Sending payload
+0xffffed40
+Incorrect! Bye.
+
+[*] Switching to interactive mode
+level4
+[*] Interrupted
+[*] Closed connection to 192.168.40.51 port 5004

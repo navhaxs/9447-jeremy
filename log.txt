@@ -1,0 +1,14 @@
+index: -200 offset: -20000
+808466164
+[x] Opening connection to localhost on port 5004
+[x] Opening connection to localhost on port 5004: Trying 127.0.0.1
+[+] Opening connection to localhost on port 5004: Done
+[*] Recieved password prompt
+[*] Sending payload
+0xffffed40
+Incorrect! Bye.
+
+[*] Switching to interactive mode
+[*] Got EOF while reading in interactive
+[*] Interrupted
+[*] Closed connection to localhost port 5004

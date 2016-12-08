@@ -1,0 +1,5 @@
+break * 0x3030379f
+  commands
+    x/x 0x30305014
+  end
+
